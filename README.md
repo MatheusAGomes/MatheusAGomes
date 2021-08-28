@@ -1,4 +1,4 @@
-## Hi there, I'm Matheus ! 👨‍💻
+## Hi , I'm Matheus ! 👨‍💻
 
 - 📚 I am Computer Engineer Student at PUC-CAMPINAS.
 
