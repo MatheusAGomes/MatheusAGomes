@@ -1,6 +1,6 @@
 ## Hi , I'm Matheus ! 👨‍💻
 
-- 📚 I am Computer Engineer Student at PUC-CAMPINAS.
+- 📚 I'm Computer Engineer Student at PUC-CAMPINAS.
 
 
 
