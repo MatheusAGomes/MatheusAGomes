@@ -1,7 +1,7 @@
 ## Hi , I'm Matheus ! 👨‍💻
 
 - Computer Engineer
-- Flutter developer
+- Angualar/Flutter developer
 
 
 
